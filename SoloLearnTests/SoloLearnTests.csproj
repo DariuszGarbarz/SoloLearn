@@ -52,6 +52,7 @@
     <Compile Include="BasicConceptsTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ConditionalsAndLoopsTest.cs" />
+    <Compile Include="MethodsTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

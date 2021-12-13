@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BasicConcepts.cs" />
     <Compile Include="ConditionalsAndLoops.cs" />
+    <Compile Include="Methods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
